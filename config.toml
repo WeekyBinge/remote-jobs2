@@ -1,0 +1,15 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Remote-Jobs    '
+theme= 'bootstrap-bp-hugo-startpage'
+copyright = "Ritesh Sonawane"
+
+
+
+[params]
+  description = "List of Remote jobs website"
+  startPageColumns = false
+  welcomeText = "Remote Jobs"
+  keywords = ["Remote-Jobs", "Remote Job", "remotejobs", "remote", "jobs remote", "job"]
+[params.analytics.google]
+    SiteVerificationTag = "remote job"
